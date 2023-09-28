@@ -1,0 +1,7 @@
+git init
+
+git config --global user.name "Benison"
+git config --global user.email "benison@gmail.com"
+
+git add .
+git commit -m "message"
