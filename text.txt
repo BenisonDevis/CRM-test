@@ -14,5 +14,16 @@ git diff @~ 2(check diff between other commits)
 git branch
 git branch branch_name
 git checkout branch_name
+git remote add origin https://github.com/BenisonDevis/CRM-test.git
+git remote
+git remote -v
+
+git push -u origin master  first time push
+
+git clone https://github.com/dilshadt101/CRM-test.git
+
+git branch -a
+
+git checkout origin/feature
 
 
